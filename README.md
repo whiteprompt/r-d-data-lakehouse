@@ -1,4 +1,8 @@
-# Kinessis 
+# Kinesis 
+
+This is the companion repo for the [Medium Article: Exploring the Data Lakehouse and Its Implementation in AWS, an Article Series](https://medium.com/white-prompt-blog/implementing-a-data-lakehouse-architecture-in-aws-part-1-of-4-98e7b41c3820). 
+
+Also check out the related [Lightning Talk on Youtube](https://www.youtube.com/watch?v=DVKXupcDyco)
 
 ## Introduction
 Many applications nowadays amass significant amounts of data to build insight and knowledge to add value. A critical factor in the “Big Data” era’s advent is the vast reduction in the data storage cost and the increase of available computing power over the cloud. 
